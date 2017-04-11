@@ -1,14 +1,14 @@
 # SITE CONFIGURATION
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://example.com" # the base hostname & protocol for your site
+url: "https://doyouevendata.github.io/type-theme" # the base hostname & protocol for your site
 
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
   # Meta
-  title: Type Theme
-  avatar: avatar.png
+  title: Do You Even Data
+  avatar: http://images.guff.com/gallery/image/screen-shot-2015-09-07-at-151108
   gravatar: # Email MD5 hash
-  description: "A website with blog posts and pages" # used by search engines
+  description: "We like data." # used by search engines
 
   # Header and footer text
   header_text: >
@@ -27,7 +27,7 @@ theme_settings:
   dribbble:
   facebook:
   flickr:
-  github: "rohanchandra/type-theme"
+  github: "https://github.com/doyouevendata"
   google_plus:
   instagram:
   linkedin:  # Full URL
