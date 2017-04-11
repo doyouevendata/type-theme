@@ -6,7 +6,7 @@ url: "https://doyouevendata.github.io/type-theme" # the base hostname & protocol
 theme_settings:
   # Meta
   title: Do You Even Data
-  avatar: http://images.guff.com/gallery/image/screen-shot-2015-09-07-at-151108
+  avatar: "http://images.guff.com/gallery/image/screen-shot-2015-09-07-at-151108"
   gravatar: # Email MD5 hash
   description: "We like data." # used by search engines
 
